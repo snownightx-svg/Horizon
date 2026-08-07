@@ -49,7 +49,7 @@
   "collection": {"time_window_hours": 24},
   "digest": {
     "max_items": 12,
-    "profile_order": ["ai-creator", "tech-blog"],
+    "profile_order": ["ai-creator", "tech-news", "tech-blog", "finance-news"],
     "category_groups": {
       "models": {"name": "模型与产品", "limit": 3, "categories": ["model-product"]},
       "industry": {"name": "行业信号", "limit": 3, "categories": ["industry-signal", "research-community"]},
